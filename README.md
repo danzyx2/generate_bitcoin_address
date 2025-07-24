@@ -78,3 +78,20 @@ Setelah semua persyaratan terpenuhi dan kode tersimpan, jalankan skrip dari term
 
 ```bash
 python bitcoin_address_generator.py
+```
+
+## 📄 Lisensi
+
+Proyek ini dilisensikan di bawah [MIT License](LICENSE). Bebas untuk digunakan, dimodifikasi, dan disebarluaskan untuk keperluan apa pun.
+
+---
+
+## 👋 Tertarik untuk Kolaborasi?
+
+Kami sangat terbuka untuk kontribusi dan ide-ide baru! Jika Anda menemukan bug, memiliki saran fitur, atau ingin berkontribusi dalam bentuk kode, silakan:
+
+* Buka **Issues** untuk melaporkan masalah atau mengusulkan ide.
+* Buat **Pull Request** jika Anda sudah memiliki kode yang siap untuk digabungkan.
+
+Mari bersama-sama ciptakan alat-alat yang lebih bermanfaat!
+
